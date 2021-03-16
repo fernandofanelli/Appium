@@ -1,0 +1,65 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=05f0eeee_002Dbb67_002D4ac0_002D99a2_002Dc338590d96f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginIn #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0683f600_002D7a09_002D4ba8_002D85f4_002D9012fd507893/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassName #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f040a77_002Dc011_002D49a6_002D865f_002Dc1ed2e7fa39a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a76e88b_002Dcff8_002D4fc1_002D95d2_002D9d3b3c052981/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginIn #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a63af07_002D3ecf_002D4529_002D80ee_002D5049bc9f9772/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassNameAndText #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b5708ad_002D27a8_002D4fff_002D9c90_002De11d25088895/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginIn" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a4e2355f_002D8fb6_002D4a8b_002D9dd0_002Da19dddc4593c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginIn #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a58044c9_002D5521_002D4794_002Da3e3_002D2cff01d8f019/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassNameAndText #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a76ac018_002Dfaf6_002D49fa_002D9a98_002D6a76801f087e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassName #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassName&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b68b4c16_002Df02f_002D4287_002D99b0_002Ddbd536812c8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ElementByClassNameAndText" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e91a2ed7_002D8709_002D4319_002D8711_002D173a3eee059c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FA8E37-906A-42AE-A851-1570E29E8ABB::.NETCoreApp,Version=v3.1::MobileClient.MobileClient.LoginIn&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::277462FE-E422-4193-B1B3-61DD7D7A1EB6::.NETCoreApp,Version=v3.1::ActivityGetControl.GetControl.ElementByClassNameAndText&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Appium/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Automator/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=clickable/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=UIAUTOMATOR/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

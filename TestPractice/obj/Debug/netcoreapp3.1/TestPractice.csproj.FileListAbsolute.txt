@@ -1,0 +1,13 @@
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.exe
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.deps.json
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.runtimeconfig.json
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.runtimeconfig.dev.json
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.dll
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\bin\Debug\netcoreapp3.1\TestPractice.pdb
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.csprojAssemblyReference.cache
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.csproj.CoreCompileInputs.cache
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.AssemblyInfoInputs.cache
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.AssemblyInfo.cs
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.dll
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.pdb
+C:\Users\ffanelli\Desktop\Appium\AppiumClient\TestPractice\obj\Debug\netcoreapp3.1\TestPractice.genruntimeconfig.cache

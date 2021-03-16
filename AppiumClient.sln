@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apk", "Apk", "{F6E066D1-5483-42C5-80CC-8FD86F8907B3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\ApiDemos-debug.apk = ..\..\..\Downloads\ApiDemos-debug.apk
+		..\..\APK\Instagram.apk = ..\..\APK\Instagram.apk
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framework", "Framework\Framework.csproj", "{C5330E60-E9E6-4881-BECF-01390CB157AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mobile Client", "Mobile Client", "{3B3F0E41-09F9-445F-B4D1-572BD0088D36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileClient", "MC\MobileClient.csproj", "{A2FA8E37-906A-42AE-A851-1570E29E8ABB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivityGetControl", "ActivityGetControl\ActivityGetControl.csproj", "{277462FE-E422-4193-B1B3-61DD7D7A1EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5330E60-E9E6-4881-BECF-01390CB157AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5330E60-E9E6-4881-BECF-01390CB157AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5330E60-E9E6-4881-BECF-01390CB157AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5330E60-E9E6-4881-BECF-01390CB157AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FA8E37-906A-42AE-A851-1570E29E8ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FA8E37-906A-42AE-A851-1570E29E8ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FA8E37-906A-42AE-A851-1570E29E8ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FA8E37-906A-42AE-A851-1570E29E8ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277462FE-E422-4193-B1B3-61DD7D7A1EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277462FE-E422-4193-B1B3-61DD7D7A1EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277462FE-E422-4193-B1B3-61DD7D7A1EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277462FE-E422-4193-B1B3-61DD7D7A1EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2FA8E37-906A-42AE-A851-1570E29E8ABB} = {3B3F0E41-09F9-445F-B4D1-572BD0088D36}
+		{277462FE-E422-4193-B1B3-61DD7D7A1EB6} = {3B3F0E41-09F9-445F-B4D1-572BD0088D36}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB7DE47-2092-4B30-A4F7-23CDBA4C3050}
+	EndGlobalSection
+EndGlobal
